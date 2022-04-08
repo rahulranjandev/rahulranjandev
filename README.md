@@ -6,5 +6,4 @@
 - 👯 I’m stuyding Biotechongly🤗
 - 💬 Ask me about anythings
 - 📫 How to reach me: 
-- 😄 Pronouns: Bad Boy😈
-- ⚡ Fun fact: Fun jokes😅
+
