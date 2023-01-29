@@ -1,6 +1,6 @@
 ### <div align="center">I'm Rahul Ranjan, a Software developer 👨‍💻 and a Biotech Student 👨🏻‍🎓</div>  
 
-- 🌱 I’m currently learning System Design and Microservice  Architecture.
+- 🌱 I’m currently learning System Architecture and Microservice Architecture.
 - ❓ Ask me about anything related to MERN stack and related technologies.
 - 📫 How to reach me: devrahulranjan@gmail.com
 <br/>  
