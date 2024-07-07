@@ -6,30 +6,26 @@
   
 <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rahulranjan937&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rahulranjandev&&style=flat-square" align="center" />
 </div>  
 <br/>
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahulranjan937&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br />
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulranjan937&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulranjandev&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 ## Connect with me
 
 <div align="center">
-<a href="https://github.com/rahulranjan937" target="_blank">
+<a href="https://github.com/rahulranjandev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/rahulranjanext" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/rahulranjan.io" target="_blank">
+<a href="https://instagram.com/rahulranjanext" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
