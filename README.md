@@ -1,22 +1,40 @@
-# <div align="center">I'm Rahul Ranjan, 👨‍💻🌱 Software Developer, Biotechnology</div>  
+<div align="center"><h1>I'm Rahul Ranjan, 👨‍💻🌱 Software Developer, Biotechnology</h1></div>
 
-- 🛠️ Currently immersing myself in DevOps practices.
-- 🌱 Actively exploring System and Microservice Architecture to enhance my skills in scalable software design.
-- ❓ Ask me about anything related to MERN stack and related technologies
-- 📫 How to reach me: <devrahulranjan@gmail.com>
+<div align="left">
+  <ul>
+    <li>🛠️ Currently immersing myself in the world of Software Development.</li>
+    <li>
+      🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+    </li>
+    <li>💬 Ask me about anything related to Javascript/Typescript/Python and related technologies</li>
+    <li>
+      📫 Email me at
+      <a href="mailto:devrahulranjan@gmail.com"> <strong>devrahulranjan@gmail.com</strong></a>
+    </li>
+  </ul>
+</div>
 
-## Github Stats
+<h2 align="left">My GitHub Stats</h2>
 
-<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulranjandev&hide_border=false" align="center" /></div>
-</br>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulranjandev&hide_border=false&layout=compact" align="center" /></div>
-
-</br>
+<div align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rahulranjandev&hide_border=false"
+    align="center"
+  />
+</div>
+<br />
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulranjandev&hide_border=false&layout=compact"
+    align="center"
+  />
+</div>
+<br />
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rahulranjandev&style=flat-square" align="center" />
-</div>  
+  <img src="https://komarev.com/ghpvc/?username=rahulranjandev&style=flat-square" align="center" />
+</div>
 
-## My Technical Expertise
+<h2 align="left">My Technical Expertise</h2>
 
 <table>
   <tr>
@@ -227,15 +245,24 @@
   </tr>
 </table>
 
-## Connect with me
+<h2>Contact Me 📫</h2>
 
 <a href="https://github.com/rahulranjandev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img
+    src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"
+    alt="github"
+    style="margin-bottom: 5px"
+  />
 </a>
 <a href="https://linkedin.com/in/rahulranjanext" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <img
+    src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="linkedin"
+    style="margin-bottom: 5px"
+/></a>
 <a href="https://instagram.com/rahulranjan.io" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
+  <img
+    src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+    alt="instagram"
+    style="margin-bottom: 5px"
+/></a>
