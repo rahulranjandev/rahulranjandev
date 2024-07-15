@@ -3,10 +3,6 @@
 - 🛠️ Currently immersing myself in DevOps practices.
 - 🌱 Actively exploring System and Microservice Architecture to enhance my skills in scalable software design.
 - 📫 How to reach me: <devrahulranjan@gmail.com>
-- 
-## About Me
-
-I am a passionate software developer with a strong background in biotechnology. My unique combination of skills allows me to approach problems with a fresh perspective. I am deeply interested in creating scalable and secure systems, particularly in the realm of financial transactions.
 
 <br/>  
 <div align="center">
