@@ -18,7 +18,7 @@
 
 <div align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rahulranjandev&hide_border=false"
+    src="https://nirzak-streak-stats.vercel.app/?user=rahulranjandev&hide_border=true"
     align="center"
   />
 </div>
