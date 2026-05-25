@@ -18,14 +18,14 @@
 
 <div align="left">
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=rahulranjandev&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=rahulranjandev&theme=dark&hide_border=false"
     align="center"
   />
 </div>
 <br />
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulranjandev&hide_border=false&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahulranjandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     align="center"
   />
 </div>
